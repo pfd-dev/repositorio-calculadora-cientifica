@@ -1,6 +1,6 @@
 # repositorio-calculadora-cientifica
 código de la calculadora científica.
-
+[[imagen ejemplo: ]]
 
 Funciones de la pagina de inicio, mostrara juguetes de Dragon Ball
 
@@ -31,6 +31,9 @@ Página crear producto: [[Página crear producto]]
 
 
 Lógica Principal: ./scripts/scripts.js
+
+
+![Mi Logo](./img/imagen.png)
 
 
 
